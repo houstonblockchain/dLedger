@@ -20,8 +20,8 @@ const _ = require('lodash')
 const db = require('./')
 
 const USER_SCHEMA = {
-  username: String,
-  password: String,
+  //username: String,
+  //password: String,
   email: /.+@.+\..+/,
   publicKey: String,
   '?encryptedKey': String,

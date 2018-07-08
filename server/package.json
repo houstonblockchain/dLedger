@@ -20,29 +20,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyperledger/sawtooth-supply-chain.git"
+    "url": ""
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/hyperledger/sawtooth-supply-chain/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/hyperledger/sawtooth-supply-chain#readme",
+  "homepage": "",
   "dependencies": {
-    "bcrypt": "^1.0.3",
-    "body-parser": "^1.17.2",
-    "express": "^4.15.4",
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
     "js-schema": "^1.0.1",
-    "jsonwebtoken": "^7.4.3",
-    "lodash": "^4.17.4",
-    "protobufjs": "^6.8.0",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.10",
+    "protobufjs": "^6.8.6",
     "rethinkdb": "^2.3.3",
-    "sawtooth-sdk": "^1.0.0-rc"
+    "sawtooth-sdk": "^1.0.4"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0",
-    "request": "^2.83.0",
+    "nodemon": "^1.17.5",
+    "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
-    "standard": "^10.0.3"
+    "standard": "^11.0.1"
   }
 }

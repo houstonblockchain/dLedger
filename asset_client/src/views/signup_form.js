@@ -24,6 +24,7 @@ const api = require('../services/api')
 const transactions = require('../services/transactions')
 const payloads = require('../services/payloads')
 
+const dledger = "dLedger Mission statement: to organize an accurate history of the world's property and their clerics"
 const passwordCard = state => {
   const setter = forms.stateSetter(state)
   const validator = forms.validator(
