@@ -17,7 +17,7 @@ name = "supply-chain-tp"
 version = "0.10.1"
 authors = ["Cargill Incorporated"]
 description = "Sawtooth Supply Chain Transaction Processor"
-homepage = "https://github.com/houstonblockchain/"
+homepage = "https://github.com/houstonblockchain/dLedger.git"
 
 [dependencies]
 sawtooth_sdk = { git = "https://github.com/hyperledger/sawtooth-core.git" }

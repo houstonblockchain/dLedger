@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/houstonblockchain/dLedger.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/houstonblockchain/dLedger.git/issues"
   },
-  "homepage": " ",
+  "homepage": "https://github.com/houstonblockchain/dLedger.git",
   "dependencies": {
     "body-parser": "^1.18.3",
     "js-schema": "^1.0.1",

@@ -1,7 +1,7 @@
 {
   "name": "dledger_cannabisxyz",
   "version": "0.0.0",
-  "description": "A Sawtooth Supply Chain client web app for trading fish",
+  "description": "A Sawtooth Supply Chain client web app for tracking cannabis from seed to sale",
   "main": "",
   "scripts": {
     "generate-proto-files": "node scripts/generate_proto_json.js > src/generated_protos.json",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/houstonblockchain/dLedger.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/houstonblockchain/dLedger.git/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/houstonblockchain/dLedger.git",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "chart.js": "^2.7.2",
